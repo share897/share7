@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"Aurelia Wallet","version":"1.0.0","description":"A secure, elegant multi-asset crypto wallet.","action":{"default_popup":"popup.html","default_title":"Aurelia Wallet"},"icons":{"16":"assets/icon16.png","32":"assets/icon32.png","128":"assets/icon128.png"},"permissions":["storage","clipboardWrite"],"background":{"service_worker":"background.js"}}
